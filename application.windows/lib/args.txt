@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1000m
+Texte_gramme3
+Texte_gramme3.jar,core.jar,PeasyCam.jar,PeasyCam.jar,PeasyCam.jar,opengl.jar,jogl.jar,gluegen-rt.jar,guicomponents.jar
